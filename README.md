@@ -48,3 +48,5 @@ You can contact the developer via:
 * **Other:** bag.xml Discord server or Reddit.
 
 For issues, please include your iOS version, YouTube version, what happened, and any relevant crash logs.
+## Note
+Since I do not speak English, this text was generated using AI. There may be some unnatural phrasing, but I hope you understand.
