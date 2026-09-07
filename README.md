@@ -6,49 +6,45 @@
 
 </div>
 
-###### A fork of TubeReplacer by Preloading, updated to support newer versions of YouTube.
+###### it's like tuberepair but i replaced the whole backend of the app, instead of the server
 
 ## What is this?
 
 This is a Cydia tweak that fixes the Google YouTube app on legacy iOS devices without relying on a backend server.
 
-This project is a fork of **TubeReplacer by Preloading**, with the goal of updating it for newer versions of the YouTube app while maintaining compatibility with older iOS versions.
+This project is a fork of **TubeReplacer by Preloading**, with the goal of updating it to fix the final version of YouTube compatible with iOS 6.
+
+**Note:** This fork is currently under active development.
 
 ## Versions
 
 Should work on iOS 5–iOS 10.
 
-The original TubeReplacer was built around older YouTube versions, including 1.0.0–1.4.0. This fork updates the tweak to support newer YouTube versions.
+The original TubeReplacer was built around YouTube versions 1.0.0–1.4.0. This fork expands on that foundation to support newer versions, including the final version compatible with iOS 6.
 
-Compatibility may vary depending on the YouTube version and iOS version. If something does not work, please open a GitHub issue with the YouTube version, iOS version, and any relevant crash logs or details.
+Compatibility may vary depending on the YouTube and iOS version. If something does not work, please open a GitHub issue with the YouTube version, iOS version, and any relevant crash logs or details.
 
 ## What doesn't work
 
-* Purchases
-* Age-restricted content*
-* Add Channel button
-* Viewing whether or not you actually liked a video
-* Some features may not work depending on the YouTube version
+* Purchases (bruh)
+* Age Restricted Content*
+* Add Channel button. This is a list of channels, and I have no idea what to put there.
+* Viewing whether or not you actually liked a video. I don't know if this was in this version or not.
+* Some features may still be unstable depending on the YouTube version.
 
 ## Credits
 
 This project is a fork of **TubeReplacer by Preloading**.
 
-Original project:
-https://github.com/Preloading/TubeReplacer
+* Original project: https://github.com/Preloading/TubeReplacer
 
-Please refer to the original project for its original implementation and history.
+Please refer to the original repository for its initial implementation and history.
 
 ## Contact/Support
 
-If you encounter a problem, please open a GitHub issue.
+You can contact the developer via:
 
-When reporting an issue, please include:
+* **GitHub:** Open an issue or use the crash reporter / feedback button.
+* **Other:** bag.xml Discord server or Reddit.
 
-* iOS version
-* YouTube app version
-* What happened
-* Crash logs, if available
-* Steps to reproduce the issue
-
-You can also contact the original TubeReplacer community through the channels mentioned in the original project.
+For issues, please include your iOS version, YouTube version, what happened, and any relevant crash logs.
