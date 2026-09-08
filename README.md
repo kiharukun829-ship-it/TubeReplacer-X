@@ -2,7 +2,7 @@
 <img src="https://github.com/Preloading/TubeReplacer/blob/main/preferences/Resources/icon@full.png" width=20% height=20%>
 <h1>TubeReplacer</h1>
 
-![Hackatime Badge](https://hackatime-badge.hackclub.com/U091X12CFFG/TubeReplacer)
+<!--![Hackatime Badge](https://hackatime-badge.hackclub.com/U091X12CFFG/TubeReplacer)!-->
 
 </div>
 
